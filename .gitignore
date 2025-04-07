@@ -1,0 +1,5 @@
+node_modeules/
+frontend/node_modules/
+backend/__pycache__/
+backend/models/
+backend/data/
